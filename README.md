@@ -109,7 +109,7 @@ The dashboard utilizes raw data extracted from various sources to reflect an acc
 - **Microsoft Power BI**: The primary tool for creating interactive dashboards and visual analytics.
 - **Data Extraction Tools**: Utilized for importing data from external sources into Power BI.
 - **Database Technologies**: Such as SQL Server or CSV files that store the transactional and review data used for analysis.
-- 
+ 
 ## Detailed Analysis Insights
 
 ### Sales Performance Analysis
