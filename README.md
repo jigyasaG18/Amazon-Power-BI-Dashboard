@@ -10,15 +10,13 @@
    - [Dataset Insights](#dataset-insights)
 4. [Data Sources](#data-sources)
 5. [Technology Stack](#technology-stack)
-6. [Setup Instructions](#setup-instructions)
-7. [Detailed Analysis Insights](#detailed-analysis-insights)
+6. [Detailed Analysis Insights](#detailed-analysis-insights)
    - [Sales Performance Analysis](#sales-performance-analysis)
    - [Profit Margins Analysis](#profit-margins-analysis)
    - [Sales by Category Analysis](#sales-by-category-analysis)
    - [Quantity Sold Analysis](#quantity-sold-analysis)
    - [Geographical Sales Analysis](#geographical-sales-analysis)
-8. [Conclusion](#conclusion)
-9. [Contact Information](#contact-information)
+7. [Conclusion](#conclusion)
 
 ## Project Overview
 
@@ -147,3 +145,7 @@ The dashboard utilizes raw data extracted from various sources to reflect an acc
 ## Conclusion
 
 The Amazon Power BI Dashboard Project successfully analyzes complex sales data and presents it in an interactive format, making it easier for stakeholders to derive meaningful insights. By utilizing this dashboard, businesses can identify trends, optimize product offerings, and ultimately drive growth. The dashboard serves as a powerful tool for decision-making and strategic planning, enhancing overall sales performance and profitability.
+
+
+![Amazon Power BI Dashboard Project](https://github.com/user-attachments/assets/557667e2-340a-488b-a02d-b723908db1df)
+
